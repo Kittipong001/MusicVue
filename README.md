@@ -1,8 +1,3 @@
-# FlowMusic
-
-FlowMusic is a music player app built with [Vue.js](https://vuejs.org/).
-
-## Installation and running the project
 
 #### Installing the dependencies
 
